@@ -15,7 +15,7 @@
 #################################################################################
 
 
-set( SAMPLE_NAME openclWrapper )
+set( SAMPLE_NAME opencl_wrapper )
 set( SOURCE_FILES NCopencl.cpp NCopencl_help.cpp dllmain.cpp)
 #set( EXTRA_FILES MyImage_Kernels.cl SimpleImage_Input.bmp )
 
